@@ -1,0 +1,16 @@
+com\redes\proyectoredes\dao\TipoProductoDao.class
+com\redes\proyectoredes\model\Cliente.class
+com\redes\proyectoredes\controller\LoginServlet.class
+com\redes\proyectoredes\model\DetalleFactura.class
+com\redes\proyectoredes\dao\DetalleFactDao.class
+com\redes\proyectoredes\model\Factura.class
+com\redes\proyectoredes\dao\RedDao.class
+com\redes\proyectoredes\dao\ClienteDao.class
+com\redes\proyectoredes\dao\UsuarioDao.class
+com\redes\proyectoredes\model\Red.class
+com\redes\proyectoredes\model\Producto.class
+com\redes\proyectoredes\dao\FacturaDao.class
+com\redes\proyectoredes\model\Usuario.class
+com\redes\proyectoredes\model\TipoProducto.class
+com\redes\proyectoredes\dao\ProductoDao.class
+com\redes\proyectoredes\model\Conexion.class
